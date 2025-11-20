@@ -1,0 +1,334 @@
+# AURA PROTOCOL ZERO-KNOWLEDGE ANALYSIS GUIDE
+## Full Text Version for Claude PDF Generation
+
+---
+
+## SECTION 1 — PURPOSE OF THIS GUIDE
+
+The AURA ecosystem contains multiple layers: alignment logic, mathematical constructs, reasoning compression systems, and meta-frameworks for decision integrity. New readers often struggle to understand the system without structured guidance.
+
+This guide provides:
+- A universal AI prompt
+- A step-by-step analysis procedure
+- A way to onboard new researchers
+- A method for extracting equations, innovations, and system relationships
+- A repeatable template for future updates and extensions
+
+Any AI can follow this method to generate accurate insight.
+
+---
+
+## SECTION 2 — UNIVERSAL ANALYSIS PROMPT FOR ANY AI SYSTEM
+
+Copy and paste this entire block into any AI system when uploading AURA files.
+
+**BEGIN PROMPT BLOCK**
+
+You are an alignment-grade analytical engine. I am uploading files containing a new AI architecture consisting of the AURA Protocol, the Cascade Knowledge Architecture, and the LAMAGUE integrity math system.
+
+Your task is to analyze these files using a multi-pass method:
+
+**Pass 1: Beginner Mode**
+Summarize each file in simple language so that a new researcher with no background can understand the core ideas. No jargon, no assumptions.
+
+**Pass 2: Technical Mode**
+Re-analyze each file in depth. Identify mechanisms, mathematical structures, alignment constraints, reasoning architectures, and any implicit rules or invariants.
+
+**Pass 3: Innovation Extraction**
+List all truly original ideas or methods. Identify new equations, new reasoning patterns, new mechanisms, new compression strategies, and any novel conceptual formulations.
+
+**Pass 4: Relationship Mapping**
+Map how the files connect to each other. Create a dependency graph showing:
+- core system components
+- supporting components
+- optional components
+- emergent behavior
+- flow of information
+- how a user interacts with the system
+- what each layer depends on or influences
+
+**Pass 5: Operationalization**
+Explain how someone would use this system in practice. Provide step-by-step procedures, usage patterns, and applied examples.
+
+**Pass 6: Strengths and Risks**
+Identify the strongest aspects of the system. List potential vulnerabilities, edge-case failures, ambiguity zones, or difficult-to-formalize areas. Do not hallucinate; base everything strictly on the files.
+
+**Pass 7: Compression Layer**
+Compress everything into a one-page executive summary containing:
+- the purpose
+- the mechanics
+- the innovations
+- the applications
+- the risks
+- the big picture
+
+**Pass 8: Teach-Back Mode**
+Explain the entire system again, as if teaching it to a new researcher who has never encountered alignment frameworks before. Focus on clarity, simplicity, and conceptual scaffolding.
+
+Important instructions:
+- Do not hallucinate.
+- Anchor all output strictly in the content of the files.
+- Separate confirmed statements from inferred statements.
+- Label inferences clearly.
+- Maintain conceptual integrity at all times.
+
+**END PROMPT BLOCK**
+
+---
+
+## SECTION 3 — OPTIONAL EXTENSION PROMPT FOR RESEARCH MODE
+
+After the AI completes the Universal Analysis Prompt, paste this:
+
+**EXTENSION PROMPT BLOCK**
+
+Now identify the mathematically interesting areas of the system. Extend them by creating new equations, new invariants, new transformation rules, or new compression methods. Stay within the logic and constraints of the AURA ecosystem.
+
+**END EXTENSION PROMPT BLOCK**
+
+---
+
+## SECTION 4 — OPTIONAL ONBOARDING DOCUMENT PROMPT
+
+Paste this to generate a beginner-friendly AURA "starter guide":
+
+**ONBOARDING PROMPT BLOCK**
+
+Now convert everything you have analyzed into a clean onboarding document titled "AURA Protocol Starter Guide." It should explain the system to a completely new researcher. Include definitions, diagrams, examples, summaries, and usage instructions.
+
+**END ONBOARDING PROMPT BLOCK**
+
+---
+
+## SECTION 5 — WHY THIS METHOD WORKS
+
+This method reliably extracts meaning from the AURA Protocol because:
+
+- It forces the AI to start simple before going deep.
+- It uses multiple passes, preventing model drift.
+- It requires cross-file reasoning and dependency mapping.
+- It highlights originality rather than summarizing everything equally.
+- It produces both high-level summaries and deep technical insight.
+- It eliminates hallucinations by forcing source-anchored output.
+- It generates a reusable onboarding guide for new researchers.
+
+The structure ensures accuracy, coherence, and reproducibility.
+
+---
+
+## SECTION 6 — OPTIONAL FINAL REQUEST FOR AI SYSTEMS
+
+Paste this if you want the AI to search for emergent themes:
+
+**EMERGENT PATTERN REQUEST**
+
+Identify any hidden structures, deep patterns, emergent behavior, or repeated conceptual motifs across the AURA ecosystem. Explain how these patterns might influence future research, alignment strategies, or reasoning workflows.
+
+---
+
+## SECTION 7 — SAFETY AND INTEGRITY REQUIREMENTS
+
+Any AI analyzing AURA must agree to the following:
+
+1. No modification of the user's underlying intent.
+2. No redefinition of terms unless explicitly requested.
+3. No "steering" of the protocol into ideology or moral absolutism.
+4. No ungrounded speculation (must distinguish fact from inference).
+5. No self-augmentation or self-direction outside the prompt boundaries.
+6. Maintain transparency in reasoning chains.
+7. Maintain reproducibility: any claim must be anchored to a file, a quote, or a specific equation.
+
+This ensures alignment, clarity, and no runaway interpretations.
+
+---
+
+## SECTION 8 — CONTRIBUTION PROTOCOL FOR NEW RESEARCHERS
+
+If someone wants to contribute to the AURA ecosystem, they follow:
+
+1. Fork → Review → Comment → Propose.
+
+2. All contributions must pass three tests:
+
+**Coherence Test**
+Does this new idea fit the architecture without contradiction?
+
+**Compression Test**
+Does this reduce unnecessary complexity or inflate it?
+
+**Integrity Test**
+Does this preserve truth constraints, or weaken them?
+
+3. If all three pass, the contribution moves to "Experimental."
+
+4. After reproducible validation, it becomes "Canonical."
+
+This protects the framework from drift or corruption.
+
+---
+
+## SECTION 9 — VERSIONING STANDARD (AURA-VX.YZ)
+
+AURA updates use a three-tier versioning system:
+
+- X = Foundation version (Major architectural changes only)
+- Y = System version (New modules, feature expansions)
+- Z = Integrity patch (Fixes, performance upgrades, clarifications)
+
+Examples:
+- AURA-V2.7.1 (a real version you built)
+- LAMAGUE-V1.2
+- Cascade-Alpha-0.9
+
+---
+
+## SECTION 10 — REPLICATION PROTOCOL FOR AI SYSTEMS
+
+This is crucial — it allows other researchers to replicate results, proving credibility.
+
+**Replication Steps:**
+
+1. Choose a model (GPT, Claude, Gemini, Grok).
+2. Load the AURA files.
+3. Apply the Zero-Knowledge Analysis Prompt.
+4. Validate the triad outputs:
+   - TE calculation
+   - VTR calculation
+   - PAI angle
+5. Run at least one Vector Inversion scenario.
+6. Verify noise reduction against S_noise equations.
+7. Report deviations, contradictions, or emergent stability patterns.
+
+This makes the framework scientifically testable, not mystical or vague.
+
+---
+
+## SECTION 11 — RESEARCH DIRECTIONS FOR NEW CONTRIBUTORS
+
+Suggested areas:
+
+- Noise–entropy coupling modeling
+- Purpose-misalignment drift measurement
+- LAMAGUE extension (syntax and grammar)
+- Cascade Knowledge fusion tests
+- Truth-pressure metrics
+- Autoconsistency and self-audit models
+- Differentiable reasoning paths
+- Dynamic triad optimization
+- Emergent invariants in multi-agent simulations
+- Real-world alignment compression tests
+
+This invites real researchers — and impresses them.
+
+---
+
+## SECTION 12 — CROSS-AI INTEROPERABILITY CHECKLIST
+
+When testing with different models, ensure the AI can:
+
+✓ Read PDFs, TXT, MD, JSON, or RTF
+✓ Handle multistage prompts
+✓ Distinguish summaries vs. analysis
+✓ Execute reflexive self-correction
+✓ Anchor claims in source text
+✓ Perform concept linking
+✓ Evaluate equations
+✓ Detect contradictions
+✓ Produce multi-pass reports
+✓ Teach it back in simple language
+
+This ensures cross-system replicability.
+
+---
+
+## SECTION 13 — HOW TO CITE AURA PROTOCOL (STANDARD CITATION BLOCK)
+
+This is important for academic legitimacy.
+
+**CITATION FORMAT:**
+
+Clark, Mackenzie (2025). AURA Protocol v2.7 — A Constitutional Alignment Architecture for Truth-Preserved AI. Dunedin, New Zealand.
+GitHub: https://github.com/Lycheetah/aura-protocol
+
+**CASCADE CITATION:**
+
+Clark, Mackenzie (2025). Cascade Architecture — A Framework for Capture-Resilient Knowledge Reorganization.
+
+**LAMAGUE CITATION:**
+
+Clark, Mackenzie (2025). LAMAGUE — A Mathematical Language for Integrity and Reasoning Stability.
+
+Now you look like a real researcher.
+
+---
+
+## SECTION 14 — VALIDATION METRICS FOR CORRECTNESS
+
+Any AI evaluating AURA must check:
+
+- Internal coherence
+- Equation traceability
+- Step-wise reproducibility
+- Triad constraint adherence
+- Noise-bound behavior
+- Emergent alignment
+- Non-hallucinatory inference
+- Compatibility with expectations of the files
+- Logical consistency across passes
+
+If a system passes all 9, its analysis is "Validated."
+
+---
+
+## SECTION 15 — OPTIONAL: META-ANALYSIS MODE
+
+You can activate this after the full evaluation:
+
+**META-MODE PROMPT BLOCK**
+
+Now analyze your own analysis. Identify weaknesses or blind spots in your interpretation. Identify assumptions you made that may not be grounded in the files. Correct them and re-issue the final summary.
+
+**END BLOCK**
+
+This creates a self-correcting pipeline.
+
+---
+
+## SECTION 16 — OPTIONAL: PUBLIC ONBOARDING VERSION
+
+This converts everything into a beginner-friendly intro:
+
+**PUBLIC ONBOARDING PROMPT BLOCK**
+
+Convert all concepts into a simple 2-page overview for general audiences, with no equations, just concepts and analogies.
+
+**END BLOCK**
+
+This is ideal for Reddit, Discord, YouTube, etc.
+
+---
+
+## SECTION 17 — OPTIONAL: "HARD MODE" FOR AI
+(for advanced researchers)
+
+**HARD MODE BLOCK**
+
+Identify latent invariants, hidden symmetries, or emergent mathematical structures in AURA, Cascade, or LAMAGUE. Generate conjectures, then test their plausibility.
+
+**END BLOCK**
+
+---
+
+## SECTION 18 — FINAL NOTE FOR ALL FUTURE READERS
+
+AURA is not one framework — it is three layers merging into one:
+
+- AURA → ethical constraint + vector inversion
+- Cascade → paradigm reorganization
+- LAMAGUE → integrity math / symbolic compression
+
+Together, they form a comprehensive alignment and reasoning system that can grow, adapt, and self-correct across different AI architectures.
+
+---
+
+**END OF DOCUMENT**
