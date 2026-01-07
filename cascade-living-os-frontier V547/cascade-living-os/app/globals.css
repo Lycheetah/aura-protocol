@@ -1,0 +1,222 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* CASCADE Living OS - Custom Theme */
+
+@layer base {
+  :root {
+    --radius: 0.5rem;
+    
+    /* CASCADE specific colors */
+    --cascade-sovereign: 16 185 129;
+    --cascade-stable: 6 182 212;
+    --cascade-drifting: 245 158 11;
+    --cascade-critical: 239 68 68;
+    --cascade-foundation: 168 85 247;
+    --cascade-theory: 59 130 246;
+    --cascade-edge: 16 185 129;
+  }
+  
+  * {
+    border-color: rgb(39 39 42);
+  }
+  
+  body {
+    background-color: rgb(9 9 11);
+    color: rgb(244 244 245);
+    font-feature-settings: "rlig" 1, "calt" 1;
+  }
+  
+  /* Custom scrollbar */
+  ::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+  }
+  
+  ::-webkit-scrollbar-track {
+    @apply bg-zinc-900;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    @apply bg-zinc-700 rounded-full;
+  }
+  
+  ::-webkit-scrollbar-thumb:hover {
+    @apply bg-zinc-600;
+  }
+}
+
+@layer components {
+  /* CASCADE Card Styles */
+  .cascade-card {
+    @apply bg-zinc-900/50 backdrop-blur-sm border border-zinc-800 rounded-lg;
+  }
+  
+  .cascade-card-glow {
+    @apply cascade-card shadow-lg shadow-cyan-500/5;
+  }
+  
+  /* Sovereignty Status Pills */
+  .status-sovereign {
+    @apply bg-emerald-500/10 text-emerald-400 border border-emerald-500/20;
+  }
+  
+  .status-stable {
+    @apply bg-cyan-500/10 text-cyan-400 border border-cyan-500/20;
+  }
+  
+  .status-drifting {
+    @apply bg-amber-500/10 text-amber-400 border border-amber-500/20;
+  }
+  
+  .status-critical {
+    @apply bg-red-500/10 text-red-400 border border-red-500/20;
+  }
+  
+  /* Pyramid Layer Colors */
+  .layer-foundation {
+    @apply bg-purple-500/10 text-purple-400 border-purple-500/20;
+  }
+  
+  .layer-theory {
+    @apply bg-blue-500/10 text-blue-400 border-blue-500/20;
+  }
+  
+  .layer-edge {
+    @apply bg-emerald-500/10 text-emerald-400 border-emerald-500/20;
+  }
+  
+  /* Animated gradients */
+  .gradient-cascade {
+    background: linear-gradient(
+      135deg,
+      rgb(var(--cascade-foundation)) 0%,
+      rgb(var(--cascade-theory)) 50%,
+      rgb(var(--cascade-edge)) 100%
+    );
+  }
+  
+  .gradient-sovereignty {
+    background: linear-gradient(
+      135deg,
+      rgb(var(--primary)) 0%,
+      rgb(var(--accent)) 100%
+    );
+  }
+  
+  /* Glow effects */
+  .glow-cyan {
+    box-shadow: 0 0 20px rgb(6 182 212 / 0.3);
+  }
+  
+  .glow-purple {
+    box-shadow: 0 0 20px rgb(168 85 247 / 0.3);
+  }
+  
+  .glow-emerald {
+    box-shadow: 0 0 20px rgb(16 185 129 / 0.3);
+  }
+  
+  /* Text animations */
+  .text-gradient {
+    @apply bg-clip-text text-transparent bg-gradient-to-r from-cyan-400 to-purple-400;
+  }
+  
+  /* LAMAGUE symbol styling */
+  .lamague-symbol {
+    @apply font-mono text-cyan-400 bg-cyan-500/10 px-1.5 py-0.5 rounded;
+  }
+  
+  /* Metric display */
+  .metric-value {
+    @apply font-mono text-2xl font-bold tracking-tight;
+  }
+  
+  .metric-label {
+    @apply text-xs uppercase tracking-wider text-zinc-500;
+  }
+  
+  /* Navigation active state */
+  .nav-item-active {
+    @apply bg-zinc-800/50 text-cyan-400 border-l-2 border-cyan-400;
+  }
+  
+  /* Widget containers */
+  .widget {
+    @apply cascade-card p-4 space-y-3;
+  }
+  
+  .widget-header {
+    @apply flex items-center justify-between;
+  }
+  
+  .widget-title {
+    @apply text-sm font-medium text-zinc-400 uppercase tracking-wider;
+  }
+}
+
+@layer utilities {
+  /* Fade in animation */
+  .animate-fade-in {
+    animation: fadeIn 0.3s ease-in-out;
+  }
+  
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translateY(10px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  
+  /* Pulse glow animation */
+  .animate-glow-pulse {
+    animation: glowPulse 2s ease-in-out infinite;
+  }
+  
+  @keyframes glowPulse {
+    0%, 100% {
+      box-shadow: 0 0 20px rgb(6 182 212 / 0.2);
+    }
+    50% {
+      box-shadow: 0 0 30px rgb(6 182 212 / 0.4);
+    }
+  }
+  
+  /* Cascade animation */
+  .animate-cascade {
+    animation: cascade 0.5s ease-out;
+  }
+  
+  @keyframes cascade {
+    0% {
+      transform: scale(0.95);
+      opacity: 0;
+    }
+    50% {
+      transform: scale(1.02);
+    }
+    100% {
+      transform: scale(1);
+      opacity: 1;
+    }
+  }
+  
+  /* Sovereignty meter animation */
+  .animate-sovereignty {
+    animation: sovereigntyPulse 3s ease-in-out infinite;
+  }
+  
+  @keyframes sovereigntyPulse {
+    0%, 100% {
+      filter: brightness(1);
+    }
+    50% {
+      filter: brightness(1.2);
+    }
+  }
+}
