@@ -5,7 +5,7 @@
 **Version:** Founding research edition
 **Forge date:** 22 August 2026
 **Status:** Mixed-lane research, engineering, speculation, symbolism, and worldbuilding
-**Lineage:** [`AURA Raw Research Atlas`](../research-atlas/README.md) → this compendium
+**Lineage:** [`AURA Raw Research Atlas`](../Research-Atlas/README.md) → this compendium
 
 ## Prologue — The second forge
 

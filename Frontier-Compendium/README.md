@@ -7,7 +7,7 @@
 
 ## What this is
 
-The AURA Frontier Compendium is the future-facing research layer built above the preserved AURA archive and the [`AURA Raw Research Atlas`](../research-atlas/README.md). The atlas recovered what the project had already imagined. This compendium asks what those ideas can become when placed beside current AI engineering, cognitive science, formal methods, dream research, governance, speculative science, and world-model technology.
+The AURA Frontier Compendium is the future-facing research layer built above the preserved AURA archive and the [`AURA Raw Research Atlas`](../Research-Atlas/README.md). The atlas recovered what the project had already imagined. This compendium asks what those ideas can become when placed beside current AI engineering, cognitive science, formal methods, dream research, governance, speculative science, and world-model technology.
 
 Its central proposition is:
 
@@ -98,7 +98,7 @@ It is plausible, research-adjacent, and testable. It is not yet established. The
 
 ## Relationship to the source archive
 
-This directory never replaces the original files. Its claims should point backward through the [`Source Lattice`](../research-atlas/SOURCE_LATTICE.md), and its experiments should update the [`Validation and Falsification Roadmap`](../research-atlas/VALIDATION_AND_FALSIFICATION_ROADMAP.md) rather than rewriting historical claims.
+This directory never replaces the original files. Its claims should point backward through the [`Source Lattice`](../Research-Atlas/SOURCE_LATTICE.md), and its experiments should update the [`Validation and Falsification Roadmap`](../Research-Atlas/VALIDATION_AND_FALSIFICATION_ROADMAP.md) rather than rewriting historical claims.
 
 The recovery chain is:
 

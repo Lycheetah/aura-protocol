@@ -18,7 +18,7 @@ The shortest honest description of AURA remains:
 
 > A self-referential knowledge architecture for human-AI coherence. Its function is coherence, not proof of consciousness.
 
-The future research programme built from this preserved map now lives in the [`AURA Frontier Compendium`](../frontier-compendium/README.md). The compendium is downstream interpretation; this atlas remains its recoverable ancestry.
+The future research programme built from this preserved map now lives in the [`AURA Frontier Compendium`](../Frontier-Compendium/README.md). The compendium is downstream interpretation; this atlas remains its recoverable ancestry.
 
 ## Atlas documents
 

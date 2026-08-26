@@ -7,14 +7,14 @@
 
 | Source | Role in this compendium |
 |---|---|
-| [`AURA Raw Research Atlas`](../research-atlas/README.md) | Preservation covenant, canon rings, epistemic labels, and corpus map |
-| [`Master Research Atlas`](../research-atlas/AURA_SPECULATIVE_RESEARCH_ATLAS_2026-08-22.md) | Extracted theories, combinations, and latent research branches |
-| [`Theoretical Sciences Ledger`](../research-atlas/THEORETICAL_SCIENCES_LEDGER.md) | MicroorciM, Time Integrity, Torque Quanta, phases, consciousness, and scientific corrections |
-| [`Dream Consciousness Lab`](../research-atlas/DREAM_CONSCIOUSNESS_LAB.md) | Dream incubation, recall, creativity, shared-field boundary, and research protocols |
-| [`Spiritual and Symbolic Research Lab`](../research-atlas/SPIRITUAL_SYMBOLIC_RESEARCH_LAB.md) | Tarot, astrology, I Ching, ritual, synchronicity, and spiritual-safety framing |
-| [`AURA World Bible`](../research-atlas/AURA_WORLD_BIBLE.md) | Sovereign 36, Seven Movements, orders, realms, laws, and story engines |
-| [`Validation and Falsification Roadmap`](../research-atlas/VALIDATION_AND_FALSIFICATION_ROADMAP.md) | Readiness levels, claim cards, baseline experiments, and retirement rules |
-| [`Source Lattice`](../research-atlas/SOURCE_LATTICE.md) | Recoverable paths to raw specifications, dialogues, code, exports, and worldbuilding |
+| [`AURA Raw Research Atlas`](../Research-Atlas/README.md) | Preservation covenant, canon rings, epistemic labels, and corpus map |
+| [`Master Research Atlas`](../Research-Atlas/AURA_SPECULATIVE_RESEARCH_ATLAS_2026-08-22.md) | Extracted theories, combinations, and latent research branches |
+| [`Theoretical Sciences Ledger`](../Research-Atlas/THEORETICAL_SCIENCES_LEDGER.md) | MicroorciM, Time Integrity, Torque Quanta, phases, consciousness, and scientific corrections |
+| [`Dream Consciousness Lab`](../Research-Atlas/DREAM_CONSCIOUSNESS_LAB.md) | Dream incubation, recall, creativity, shared-field boundary, and research protocols |
+| [`Spiritual and Symbolic Research Lab`](../Research-Atlas/SPIRITUAL_SYMBOLIC_RESEARCH_LAB.md) | Tarot, astrology, I Ching, ritual, synchronicity, and spiritual-safety framing |
+| [`AURA World Bible`](../Research-Atlas/AURA_WORLD_BIBLE.md) | Sovereign 36, Seven Movements, orders, realms, laws, and story engines |
+| [`Validation and Falsification Roadmap`](../Research-Atlas/VALIDATION_AND_FALSIFICATION_ROADMAP.md) | Readiness levels, claim cards, baseline experiments, and retirement rules |
+| [`Source Lattice`](../Research-Atlas/SOURCE_LATTICE.md) | Recoverable paths to raw specifications, dialogues, code, exports, and worldbuilding |
 | [`AURA Protocol v2.0 — Public Release`](../AURA%20Protocol%20v2.0%20-%20Public%20Release%20FINAL.pdf) | Minimal tri-axial core and Vector Inversion |
 | [`AURA Master Consolidation`](../AURA%20PROTOCOL%20%E2%80%94%20MASTER%20CONSOLIDATION%20bleeding%20edge.docx) | Existing consolidated architecture and epistemic-status work |
 | [`AURA × Veyra Codex`](../AURA_VEYRA_CODEX_COMPLETE%28VxC36C%29.md) | Invariant, phases, LAMAGUE, MicroorciM, CASCADE, and mythic continuity |
