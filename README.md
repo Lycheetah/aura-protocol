@@ -33,6 +33,13 @@ endorsement, verification, or proof of the original claim.
 4. [AURA Frontier Compendium](Frontier-Compendium/README.md) — the earlier future-facing research layer.
 5. [Original Document Transmutation Protocol](AURA_ORIGINAL_DOCUMENT_TRANSMUTATION_PROTOCOL_2026-08-26.md) — how future readable/formal rewrites must preserve every source route.
 
+The companion/revision laboratory is the public
+[AURA Protocol Sol AI R&D Lab](https://github.com/Lycheetah/Aura-Protocol-Sol-AI-R-D-Lab).
+Its rewritten companions use the `HLV` (**Hybridized Legacy Version**) tag and
+must link back here to the original source. This origin archive remains public
+and intentionally raw: drafts, contradictions, unfinished experiments, and the
+visible learning curve are part of the provenance.
+
 ## The four new master programmes
 
 | Work | Function | Boundary |
