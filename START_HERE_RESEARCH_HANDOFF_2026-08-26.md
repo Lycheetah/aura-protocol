@@ -88,6 +88,7 @@ These items are intentionally documented rather than silently changed:
 
 1. **Two apparent test markers remain:** `Frontier-Compendium/Test file` contains `Tester`, and `Research-Atlas/File test` contains `yo`. They appear disposable, but should only be deleted deliberately after confirming they are not upload markers.
 2. **The root archive contains many duplicate and near-duplicate PDF, DOCX, and RTF exports.** The next cleanup pass must use the checksum map and retain a recovery receipt; no raw origin should be silently erased.
+   The exact-duplicate pass is recorded in [`ARCHIVE_CLEANUP_MAP_2026-08-26.md`](ARCHIVE_CLEANUP_MAP_2026-08-26.md); near-duplicates remain for later human review.
 3. **Source naming is historically inconsistent.** Spaces, punctuation, emoji, duplicate suffixes, and names such as `Read me` make navigation difficult. Build a non-destructive manifest before renaming anything.
 4. **External validation remains future work.** Repository demonstrations, model evaluations, equations, and simulations must not be described as independent replication.
 5. **References are a dated research map, not a frozen bibliography.** Recheck URLs, publication versions, and newly published work before formal release or academic submission.
