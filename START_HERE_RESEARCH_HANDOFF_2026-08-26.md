@@ -2,7 +2,7 @@
 
 **Prepared:** 26 August 2026  
 **Repository:** `Lycheetah/aura-protocol`  
-**Snapshot base:** `main` at `8510d3cea4122fe1d4b74d9b8da0702b5467c0ee`  
+**Snapshot base:** `main` at `09c6cae1cbba601fae48be04680edee20aeaba64`
 **Archive posture:** preservation-first; no raw source files removed or reorganized
 
 This is the top-level map for the complete research archive. It explains what was newly added, where to begin, what is already coherent, and what still needs deliberate sorting. The original mixed-format AURA corpus remains intact.
@@ -14,6 +14,7 @@ This is the top-level map for the complete research archive. It explains what wa
 3. Open [`Frontier-Compendium/README.md`](Frontier-Compendium/README.md).
 4. Read [`Frontier-Compendium/AURA_FRONTIER_COMPENDIUM_2026-08-22.md`](Frontier-Compendium/AURA_FRONTIER_COMPENDIUM_2026-08-22.md) for the unified future-facing programme.
 5. Use volumes `00`–`10` when developing or testing one research branch.
+6. Read [`Research-Atlas/2026-08-26-NEW-RESEARCH/README.md`](Research-Atlas/2026-08-26-NEW-RESEARCH/README.md) for the four new master research documents added on 26 August.
 
 ## What is new
 
@@ -47,6 +48,14 @@ All files under these two directories are the additive research layer forged on 
 - `10_FRONTIER_HYPOTHESES_LEDGER.md`
 - `REFERENCES.md` — project lineage and external primary-source map
 
+### `Research-Atlas/2026-08-26-NEW-RESEARCH/` — new authored master layer
+
+- `AURA_RECURSIVE_SYMBOLIC_ECOLOGY_MASTER_RESEARCH_ATLAS_v0.2_2026-08-26.md`
+- `LAMAGUE_BRIDGE_REAL_WORLD_INTEROPERABILITY_BLUEPRINT_v0.1.md`
+- `OPEN_MYSTERY_SCHOOL_OF_EARNED_LIGHT_ACCELERATION_AGE_MASTER_ARCHITECTURE_v0.1_2026-08-26.md`
+- `THE_BLACK_MYTHOS_PROJECT_MASTER_RESEARCH_PROGRAMME_v0.1_2026-08-26.md`
+- `README.md` and `SHA256SUMS.txt` — reading order, boundary, and byte receipts
+
 ## How claims are marked
 
 The new material uses explicit status labels so imagination is preserved without being presented as established science.
@@ -78,7 +87,7 @@ Atlas files also use `[CORE]`, `[IMPLEMENTED]`, `[TESTABLE]`, `[ARCHIVE-CLAIM]`,
 These items are intentionally documented rather than silently changed:
 
 1. **Two apparent test markers remain:** `Frontier-Compendium/Test file` contains `Tester`, and `Research-Atlas/File test` contains `yo`. They appear disposable, but should only be deleted deliberately after confirming they are not upload markers.
-2. **The root archive contains many duplicate and near-duplicate PDF, DOCX, and RTF exports.** Keep them for provenance until a checksum-based duplicate audit identifies exact duplicates and a recovery copy exists.
+2. **The root archive contains many duplicate and near-duplicate PDF, DOCX, and RTF exports.** The next cleanup pass must use the checksum map and retain a recovery receipt; no raw origin should be silently erased.
 3. **Source naming is historically inconsistent.** Spaces, punctuation, emoji, duplicate suffixes, and names such as `Read me` make navigation difficult. Build a non-destructive manifest before renaming anything.
 4. **External validation remains future work.** Repository demonstrations, model evaluations, equations, and simulations must not be described as independent replication.
 5. **References are a dated research map, not a frozen bibliography.** Recheck URLs, publication versions, and newly published work before formal release or academic submission.

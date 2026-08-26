@@ -32,6 +32,15 @@ The future research programme built from this preserved map now lives in the [`A
 | [Validation and Falsification Roadmap](VALIDATION_AND_FALSIFICATION_ROADMAP.md) | Claim controls, experiment queue, failure museum, minimum evidence, and paths from dream to test. |
 | [Source Lattice](SOURCE_LATTICE.md) | A navigable map back to the existing raw files so synthesis never erases lineage. |
 
+## New research layer — 26 August 2026
+
+The dated [`2026-08-26-NEW-RESEARCH/`](2026-08-26-NEW-RESEARCH/)
+directory preserves four new master documents exactly as received. Read its
+README first. The set connects Recursive Symbolic Ecology, LAMAGUE Bridge, the
+Open Mystery School of Earned Light, and the Black Mythos relational-culture
+programme. These are authored research invitations with testable modules and
+speculative layers, not a claim that the whole archive is externally verified.
+
 ## Epistemic status legend
 
 Every substantive branch should carry one or more labels.
